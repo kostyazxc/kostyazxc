@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Kostiantyn</h1>
 <h3 align="center">Junior Frontend Developer</h3>
 
-- 🌱 I’m currently improving my skills in **JavaScript** and **C++**
+- 🌱 I’m currently improving my skills in **JavaScript** and **React**
 
 - 📫 How to reach me **konstiantyn.drozdov@gmail.com**
 
